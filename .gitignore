@@ -1,0 +1,31 @@
+# ------------------------------------
+# Python Essentials
+# ------------------------------------
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# ------------------------------------
+# Virtual Environments
+# ------------------------------------
+venv/
+.venv/
+env/
+
+# ------------------------------------
+# Data & Models
+# ------------------------------------
+# Ignore large datasets (we download them via script)
+used_cars.csv
+
+# ------------------------------------
+# Jupyter Notebooks
+# ------------------------------------
+# Checkpoints created by Jupyter
+.ipynb_checkpoints
+
+# ------------------------------------
+# IDE & OS Settings
+# ------------------------------------
+# VS Code settings (local configuration)
+.vscode/
