@@ -12,11 +12,6 @@ venv/
 .venv/
 env/
 
-# ------------------------------------
-# Data & Models
-# ------------------------------------
-# Ignore large datasets (we download them via script)
-used_cars.csv
 
 # ------------------------------------
 # Jupyter Notebooks
